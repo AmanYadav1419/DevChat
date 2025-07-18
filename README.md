@@ -6,7 +6,7 @@
 
 ## 🔗 Live Demo
 
-🚀 [Try DevChat Live](https://your-live-url.com) *(Update with your deployment link)*
+🚀 [Try DevChat Live](https://your-live-url.com)
 
 ---
 
