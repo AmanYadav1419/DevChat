@@ -37,6 +37,6 @@
 ---
 
 👨‍💻 Author
-### Ankur Ahire
-### Aman Yadav
+Ankur Ahire
+Aman Yadav
 
